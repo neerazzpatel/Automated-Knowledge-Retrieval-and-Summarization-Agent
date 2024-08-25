@@ -1,7 +1,9 @@
 **Initialization**
+
 The script starts by importing necessary libraries, including requests for making HTTP requests, firecrawl for scraping web content, and Groq for generating text summaries. The script also initializes the Groq LLM with a specified model and API key.
 
 **Fetching Search Results**
+
 The fetch_search_results function is used to query Google via SerpAPI. The function constructs a URL with the search query and API key, then makes a GET request to retrieve the search results. The top 10 organic results (excluding ads) are extracted and returned.
 
 **Scraping and Summarizing Content**
