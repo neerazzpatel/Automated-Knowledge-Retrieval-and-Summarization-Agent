@@ -1,7 +1,9 @@
 **Automated Web Scraper and Summarizer**
 
 
-This Python program automates the process of searching for a topic on Google, scraping the top search results, generating summaries using the Groq LLM (Large Language Model), and sending the final summarized content via email. The script is designed for researchers, content creators, or anyone who needs to quickly gather and summarize information from the web.
+This Python program automates the process of searching for a topic on Google, scraping the top search results, generating summaries using the Groq LLM (Large Language Model), and sending the final summarized content via email. The script is designed for researchers, content creators, or anyone who needs to quickly gather and summarize information from the web. 
+
+Here is the kaggle link: https://www.kaggle.com/code/neerazpatel/automated-web-scraper-and-summarizer
 
 **How to run the file**
 
